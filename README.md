@@ -7,8 +7,7 @@
 ---
 
 ## 💡 About Me  
-Data Analyst with hands-on expertise in **Python**, **SQL**, and **Power BI**, specializing in **data cleaning**, **visualization**, and **predictive modeling**.  
-I build end-to-end solutions including **recommendation systems**, **NLP pipelines**, and **interactive dashboards** that turn raw data into actionable insights.
+Data Analyst with hands-on expertise in **Python**, **SQL**, and **Power BI**, specializing in **data cleaning**, **visualization**, and **predictive modeling**.  I build end-to-end solutions including **recommendation systems**, **NLP pipelines**, and **interactive dashboards** that turn raw data into actionable insights.
 
 ---
 
