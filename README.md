@@ -52,12 +52,12 @@ Data Analyst with hands-on expertise in **Python**, **SQL**, and **Power BI**, s
 ## 💼 Experience  
 
 **Business Analyst Intern** – *Banao Technologies | Sep 2025 – Present*  
-- Built and deployed full-stack web applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**.  
+- Collaborated with cross-functional teams to gather business requirements and translate them into data-driven 
+insights.  
 - Analyzed user engagement and sales data to identify growth opportunities and improve product performance 
 metrics.  
-- Created detailed reports and dashboards in Power BI to support decision-making and performance tracking.
-  
-  **Tools**: Power BI, Excel, SQL, Python 
+- Created detailed reports and dashboards in Power BI to support decision-making and performance tracking.  
+**Tools:** Power BI, Excel, SQL, Python 
 ---
 
 ## 🎓 Education  
