@@ -55,7 +55,8 @@ Data Analyst with hands-on expertise in **Python**, **SQL**, and **Power BI**, s
 - Built and deployed full-stack web applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**.  
 - Analyzed user engagement and sales data to identify growth opportunities and improve product performance 
 metrics.  
-- Created detailed reports and dashboards in Power BI to support decision-making and performance tracking. 
+- Created detailed reports and dashboards in Power BI to support decision-making and performance tracking.
+  
   **Tools**: Power BI, Excel, SQL, Python 
 ---
 
