@@ -51,10 +51,12 @@ Data Analyst with hands-on expertise in **Python**, **SQL**, and **Power BI**, s
 
 ## 💼 Experience  
 
-**MERN Stack Developer Intern** – *Enut Technologies PVT LTD*  
+**Business Analyst Intern** – *Banao Technologies | Sep 2025 – Present*  
 - Built and deployed full-stack web applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**.  
-- Designed responsive front-end interfaces and RESTful APIs.  
-
+- Analyzed user engagement and sales data to identify growth opportunities and improve product performance 
+metrics.  
+- Created detailed reports and dashboards in Power BI to support decision-making and performance tracking. 
+  **Tools**: Power BI, Excel, SQL, Python 
 ---
 
 ## 🎓 Education  
